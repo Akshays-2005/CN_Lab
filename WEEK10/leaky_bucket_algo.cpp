@@ -41,17 +41,5 @@ int main() {
 
     return 0;
 }
-
-
-O/p:
-Enter bucket size: 5000
-Enter outgoing rate: 2000
-Enter number of incoming packets: 2
-
-Enter incoming packet size: 3000
-Packet stored. Current bucket content: 3000
-Packets left in bucket after leaking: 1000
-
-Enter incoming packet size: 1000
-Packet stored. Current bucket content: 2000
 Packets left in bucket after leaking: 0
+
